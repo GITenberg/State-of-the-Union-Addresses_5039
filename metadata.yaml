@@ -1,0 +1,26 @@
+_repo: State-of-the-Union-Addresses_5039
+creator:
+  author:
+    agent_name: Truman, Harry S.
+    alias: United States President (1945-1953)
+    birthdate: 1884
+    deathdate: 1972
+    gutenberg_agent_id: '1664'
+    url: http://www.gutenberg.org/2009/agents/1664
+    wikipedia: http://en.wikipedia.org/wiki/Harry_S._Truman
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcc 'J'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5039
